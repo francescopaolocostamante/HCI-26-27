@@ -1,17 +1,40 @@
-# HCI-26-27
+# MatricOrario <!-- omit in toc -->
 ---
 
-### Esempio
+## Contenuti <!-- omit in toc -->
+- [Introduzione](#introduzione)
+  - [Problema da risolvere:](#problema-da-risolvere)
+  - [Utenti target:](#utenti-target)
+  - [Missione del progetto:](#missione-del-progetto)
+  - [Rischi e tensioni iniziali:](#rischi-e-tensioni-iniziali)
+- [Membri del gruppo](#membri-del-gruppo)
 
-Per poter lavorare, molti artisti indipendenti si affidano a piattaforme web per diffondere i propri lavori e trovare lavoro. Tuttavia, molte piattaforme integrano nei termini di utilizzo la possibilità di usare le immagini caricate dagli utenti come dati per il training di modelli AI per vari scopi, tra cui la generazione di immagini. In aggiunta, alcuni privati fanno scraping illegale di immagini per allenare modelli senza il consenso degli autori. Ciò espone gli artisti al rischio di furto della loro proprietà intellettuale e a partecipare a pratiche che non necessariamente sono da loro condivise.
 
-**Utenti target:** artisti che non vogliono che le loro immagini siano usate per il training dei modelli di generazione immagini e vogliono proteggere la loro proprietà intellettuale.
+## Introduzione 
+Questa directory contiene i materiali riguardo la corso di Human-Computer Interaction (HCI) del Politecnico di Milano del gruppo **FEMP**.
 
-**Missione del progetto:** proteggere la proprietà intellettuale degli artisti dando loro gli strumenti per rendere le immagini inutilizzabili per il training di modelli generativi.
 
-**rischi e tensioni iniziali:** 1) lo scraping illegale di immagini lede la proprietà intellettuale degli artisti e porta ad un danno morale ed economico per l'artista. 2) Un modello in grado di riprodurre lo stile di un artista vivente, crea l'opportunità di generare lavori contraffatti e venderli con il nome dell'artista. 
 
-3) Non sempre gli artisti potrebbero avere le conoscenze tecniche per poter proteggere i propri lavori.
+### Problema da risolvere:
+Per gli studenti del primo anno una delle principali problematiche è ambientarsi allo studio e agli orari. Per ovviare a questo problema, spesso gli studenti si affidano a pianificazioni improvvisate e poco efficaci, le quali tendono a generare ansia negli studenti in caso non vengano rispettate o a incentivare lo studio superficiale pur di rispettare o recuperare scadenze accumulate. Inoltre, seppur rispettate, non è certo che tali programmazioni siano complete.
+### Utenti target:
+Studenti universitari del primo anno che hanno difficoltà nell’organizzazione quotidiana dello studio autonomo
+### Missione del progetto:
+Accompagnare gli studenti del primo anno a gestire l'organizzazione dello studio e insegnare l'autonomia organizzativa in base ai propri obiettivi.
+### Rischi e tensioni iniziali:
+- Le organizzazioni mal progettate possono non essere allineate ai reali requisiti dello studio.
+- Le aspettative irrealistiche incentivano lo sviluppo di ansia nello studente.
+
+## Membri del gruppo
+I membri del gruppo sono:
+
+| Francesco Paolo Costamante| Emilio Fattibene| Michele Nessi| Fabio Cossu| Pietro Panzeri|  
+|---|---|---|---|---|
+| <img src="./resources/francesco.jpeg" title="Francesco">| <img src="./resources/emilio.jpeg" title="Emilio">| <img src="./resources/michele.jpeg" title="Michele">| <img src="./resources/Fabio.jpeg" title="Fabio">| <img src="./resources/Pietro.jpeg" title="Pietro">|  
+| francescopaolo.costamante@mail.polimi.it| emilio.fattibene@mail.polimi.it | michelenessi05@gmail.com| fabio.cossu@mail.polimi.it| pietropanzeri005@gmail.com|  
+| [@](https://github.com/)| [@](https://github.com/)| [@](https://github.com/)| [@](https://github.com/)| [@](https://github.com/)|  
+
+<!-- 
 ### Tema 1:
 (matricOrario)
 #### Problema da risolvere:
@@ -40,24 +63,4 @@ criticità
 - creazione di ansia
 - Deskilling
 
-
----
-
-### Tema 2:
-
-#### Problema da risolvere:
-con l'intensificarsi dell'utilizzo degli LLM nelle operazioni quotidiane può capitare di condividere involontariamente informazioni sensibili (nomi, numeri di telefono, documentazione sanitaria, documenti lavorativi, etc). l'uso frequente porta a una desensibilizzazione e una minore attenzione rispetto alle informazioni condivise con l'AI  
-
-#### Utenti target:
-gli utenti che iniziano a utilizzare l'AI in maniera intensiva, inevitabilmente condividendo informazioni o documenti private
-
-#### Missione del progetto:
-progettare un sistema che indichi all'utente il rischio a cui si espone condividendo informazioni sensibili/private con l'LLM e suggerire alternative sicure   
-
-#### Rischi e tensioni iniziali:
-
-1) la condivisione indiscriminata di dati sensibili che possono danneggiare la privacy dell'utente
-2) la condivisione di documenti lavorativi sensibili che possono danneggiare l'azienda e chi li ha condivisi 
-
-3) è critica la gestione delle informazioni private è la trasparenza nel comunicare all'utente come queste vengano gestite 
-4) chi prima poteva essere riluttante a utilizzare gli LLM per certi task, potrebbe sdoganarne l'uso eccessivo.
+-->
