@@ -32,7 +32,7 @@ I membri del gruppo sono:
 |---|---|---|---|---|
 | <img src="./resources/francesco.jpeg" title="Francesco">| <img src="./resources/emilio.jpeg" title="Emilio">| <img src="./resources/michele.jpeg" title="Michele">| <img src="./resources/Fabio.jpeg" title="Fabio">| <img src="./resources/Pietro.jpeg" title="Pietro">|  
 | francescopaolo.costamante@mail.polimi.it| emilio.fattibene@mail.polimi.it | michelenessi05@gmail.com| fabio.cossu@mail.polimi.it| pietropanzeri005@gmail.com|  
-| [@](https://github.com/)| [@](https://github.com/)| [@](https://github.com/)| [@](https://github.com/)| [@](https://github.com/)|  
+| [@](https://github.com/)| [@EmilioFattibene](https://github.com/Emilio-ops)| [@](https://github.com/)| [@](https://github.com/)| [@](https://github.com/)|  
 
 <!-- 
 ### Tema 1:
