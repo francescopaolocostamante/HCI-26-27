@@ -1,24 +1,5 @@
 # Compito 2 - RAFFINAMENTO E FOCUS <!-- omit in toc -->
 ---
 
-## Struttura del report <!-- omit in toc -->
-- [Ulteriori interviste](#ulteriori-interviste)
-- [Lista dei bisogni degli utenti](#lista-dei-bisogni-degli-utenti)
-- [Bisogni considerati](#bisogni-considerati)
-- [Scenari e Personas](#scenari-e-personas)
-- [Soluzioni](#soluzioni)
-- [Nome progetto e value proposition](#nome-progetto-e-value-proposition)
+Link alla presentazione: https://docs.google.com/presentation/d/1jT28y7hqnk7rq-20BL6WCJ3y7mJ9W8kn5W54wX20tYs/edit?usp=sharing
 
-
-# Ulteriori interviste
-
-# Lista dei bisogni degli utenti
-
-# Bisogni considerati
-<img src="./resources/diagramma schema generale.png" title="Digrammma schema generale">
-
-# Scenari e Personas
-
-# Soluzioni
-
-# Nome progetto e value proposition
