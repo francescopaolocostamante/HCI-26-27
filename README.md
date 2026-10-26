@@ -28,9 +28,9 @@ Accompagnare gli studenti del primo anno a gestire l'organizzazione dello studio
 ## Membri del gruppo
 I membri del gruppo sono:
 
-| Francesco Paolo Costamante| Emilio Fattibene| Michele Nessi| Fabio Cossu| Pietro Panzeri|  
-|---|---|---|---|---|
-| <img src="./resources/francesco.jpeg" title="Francesco">| <img src="./resources/emilio.jpeg" title="Emilio">| <img src="./resources/michele.jpeg" title="Michele">| <img src="./resources/Fabio.jpeg" title="Fabio">| <img src="./resources/Pietro.jpeg" title="Pietro">|  
+| Francesco Paolo Costamante| Emilio Fattibene| Michele Nessi| Fabio Cossu| Pietro Panzeri| Matteo Romano|
+|---|---|---|---|---|---|
+| <img src="./resources/francesco.jpeg" title="Francesco">| <img src="./resources/emilio.jpeg" title="Emilio">| <img src="./resources/michele.jpeg" title="Michele">| <img src="./resources/Fabio.jpeg" title="Fabio">| <img src="./resources/Pietro.jpeg" title="Pietro">| <img src="./resources/matteo.png" title="Matteo"> 
 | francescopaolo.costamante@mail.polimi.it| emilio.fattibene@mail.polimi.it | michelenessi05@gmail.com| fabio.cossu@mail.polimi.it| pietropanzeri005@gmail.com|  
 | [@](https://github.com/)| [@EmilioFattibene](https://github.com/Emilio-ops)| [@](https://github.com/)| [@](https://github.com/)| [@PietroPanzeri](https://github.com/Pietropanzeri)|  
 
